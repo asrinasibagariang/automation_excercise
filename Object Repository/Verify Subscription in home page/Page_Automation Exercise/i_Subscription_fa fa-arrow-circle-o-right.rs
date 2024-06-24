@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Subscription_fa fa-arrow-circle-o-right</name>
+   <tag></tag>
+   <elementGuidId>69b80d20-2a0e-4a41-8fb1-d342be4ec954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-arrow-circle-o-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='subscribe']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>287c6f0d-5edc-4ffd-871a-240b92d2ae50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-circle-o-right</value>
+      <webElementGuid>38a7ec53-4a2f-4da8-9e16-72956db6785a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscribe&quot;)/i[@class=&quot;fa fa-arrow-circle-o-right&quot;]</value>
+      <webElementGuid>dd4554eb-1edd-4165-8975-bc567bf364bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='subscribe']/i</value>
+      <webElementGuid>99624953-9c80-44d1-9c49-b88c5b287ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>3965eb5c-2566-4001-9b40-c7e463ec58f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

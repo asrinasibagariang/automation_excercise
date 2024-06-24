@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS009 - Verify Subscription in cart page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee9a6015-2d79-42b9-bbf1-ca4c51fdaa8c</testCaseGuid>
+</TestCaseEntity>
