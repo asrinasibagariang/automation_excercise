@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Below is the list of APIs for you to p_11546f</name>
+   <tag></tag>
+   <elementGuidId>82d6470c-090e-467d-bfe0-ed512e4a6fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='form']/div/div[2]/h5/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5991710f-d649-4eeb-8640-51f279a4aaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Below is the list of APIs for you to practice the API testing in Automation. Click on the scenario for detailed API:</value>
+      <webElementGuid>ee06bf97-199e-48ae-8397-f004bc115ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;panel-group&quot;]/h5[1]/span[1]</value>
+      <webElementGuid>8004c7c2-d945-4405-b76e-959c36b5a0e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form']/div/div[2]/h5/span</value>
+      <webElementGuid>01d10df1-e99c-4ec3-8330-21f5ebd6590e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APIs List for practice'])[1]/following::span[1]</value>
+      <webElementGuid>319b8f1f-bfb1-4ca0-8dd4-b5efcc9071a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::span[1]</value>
+      <webElementGuid>e94e226f-127b-4b4b-a3f2-5cad299d85aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API 1: Get All Products List'])[1]/preceding::span[1]</value>
+      <webElementGuid>2b473b64-8fe6-411e-ae78-9582607c4bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API URL:'])[1]/preceding::span[1]</value>
+      <webElementGuid>cdffae57-4eec-4712-beb0-feb390923d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Below is the list of APIs for you to practice the API testing in Automation. Click on the scenario for detailed API:']/parent::*</value>
+      <webElementGuid>c7f4a675-7a43-402d-8269-db0318540106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>076b9d04-5b97-4363-82bc-dcef682b8dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Below is the list of APIs for you to practice the API testing in Automation. Click on the scenario for detailed API:' or . = 'Below is the list of APIs for you to practice the API testing in Automation. Click on the scenario for detailed API:')]</value>
+      <webElementGuid>dd00a64c-cfa2-423c-9af9-7a4ed4ecd98f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
