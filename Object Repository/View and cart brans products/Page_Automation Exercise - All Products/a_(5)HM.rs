@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(5)HM</name>
+   <tag></tag>
+   <elementGuidId>4a16b545-ec1e-4f75-9e29-654ae7dd7ed5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='(6)'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-pills.nav-stacked > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ee2ca48-0220-41e2-a740-10d3dc043bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/brand_products/H&amp;M</value>
+      <webElementGuid>9daddf08-b3e2-4bc7-9ff9-273e4d1e3299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> (5)H&amp;M</value>
+      <webElementGuid>d2c99095-8547-45cf-b95b-a59adcfacda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[2]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;left-sidebar&quot;]/div[@class=&quot;brands_products&quot;]/div[@class=&quot;brands-name&quot;]/ul[@class=&quot;nav nav-pills nav-stacked&quot;]/li[2]/a[1]</value>
+      <webElementGuid>6d5bb154-7218-4651-b3e0-c4b29b552f6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(6)'])[1]/following::a[1]</value>
+      <webElementGuid>b14356ff-a2b4-4d7e-96ff-b297c5eed66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='H&amp;M']/parent::*</value>
+      <webElementGuid>4ce42435-1ea5-4f46-8159-100f34e42dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/brand_products/H&amp;M')]</value>
+      <webElementGuid>86dbc817-af06-4611-aab6-ac0a31a7894d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[2]/a</value>
+      <webElementGuid>d9a55fc4-1622-4c82-a213-a233253b8b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/brand_products/H&amp;M' and (text() = ' (5)H&amp;M' or . = ' (5)H&amp;M')]</value>
+      <webElementGuid>259ddec7-d93d-45d8-9c7c-93c6562c448c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

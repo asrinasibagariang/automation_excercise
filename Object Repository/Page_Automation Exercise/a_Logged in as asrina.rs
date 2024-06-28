@@ -6,12 +6,12 @@
    <elementGuidId>7a8c57a0-7cfb-412e-ad22-c9cb0d0302c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li:nth-of-type(10) > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(10) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>57900d87-24f3-46e0-836a-ec85a55da767</webElementGuid>
+      <webElementGuid>c71dcb1b-8766-4960-8537-2967bdc60d59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Logged in as asrina</value>
-      <webElementGuid>d758f68d-42ef-4c97-88c0-56e1f6f7992a</webElementGuid>
+      <webElementGuid>1441aba1-e1b7-4f5c-a268-38edf1b7884a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header&quot;)/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;shop-menu pull-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[10]/a[1]</value>
-      <webElementGuid>0d8f7f55-9e06-448e-a2a8-07b0a37b7020</webElementGuid>
+      <webElementGuid>bfc54eee-28d1-423e-87af-92ebc8acf1d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[10]/a</value>
-      <webElementGuid>aa6a8b9f-a3a4-4bce-ac4d-6cd246d15ba6</webElementGuid>
+      <webElementGuid>17c6af67-f76e-485d-bf1c-c57255839230</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::a[1]</value>
-      <webElementGuid>d8f729db-d463-4de3-82dc-f33f7b938f96</webElementGuid>
+      <webElementGuid>d809cb6e-90fe-4103-9b5f-3006ff34594b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Tutorials'])[1]/following::a[2]</value>
-      <webElementGuid>4b3be429-44e2-4a26-8e19-454ab2d16206</webElementGuid>
+      <webElementGuid>9fbc146a-e540-4d58-982e-24d568d95dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logged in as']/parent::*</value>
-      <webElementGuid>cf5b725b-c871-477f-bb58-784935d3d07c</webElementGuid>
+      <webElementGuid>79c39f18-03b4-4b4b-a7fd-9c620009c003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[10]/a</value>
-      <webElementGuid>3e7bfbdd-1180-4e27-b1dd-5e748bb13fcb</webElementGuid>
+      <webElementGuid>875ae4d1-36a6-45ca-ad36-326c72bb9e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = ' Logged in as asrina' or . = ' Logged in as asrina')]</value>
-      <webElementGuid>f478637f-a4cf-48e5-acdf-8c15edf22af4</webElementGuid>
+      <webElementGuid>64dcac22-26e4-4130-8a9c-242056bd0d6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

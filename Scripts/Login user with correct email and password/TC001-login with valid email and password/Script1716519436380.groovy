@@ -21,17 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://automationexercise.com/')
 
-WebUI.click(findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise/a_Signup  Login'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/a_Signup  Login'))
 
-WebUI.setText(findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise - Signup  Login/input_Login to your account_email'), 
+WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_Login to your account_email'), 
     'asrinasibagariang@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise - Signup  Login/input_Login to your account_password'), 
-    '8K9Ot5QHsMzfCU/s9Qbkug==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_Login to your account_password'), 
+    '1yOhX5QgtoE=')
 
-WebUI.click findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise - Signup  Login/button_Login')
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Automation Exercise/a_Logged in as asrina'), 'Logged in as asrina')
-WebUI.click(findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise/a_Delete Account'))
-WebUI.verifyElementText(findTestObject('Object Repository/Login with username and password valid/Page_Automation Exercise - Account Created/b_Account Deleted'),  'ACCOUNT DELETED!')
-WebUI.click(findTestObject('Object Repository/Login with valid username and password/Page_Automation Exercise - Account Created/a_Continue'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/button_Login'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise/a_Logged in as asrina'), 0)
 

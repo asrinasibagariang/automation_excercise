@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c8a3dd02-1507-4b13-a8d2-0c58fe68c883</webElementGuid>
+      <webElementGuid>407d4bb3-b462-4aba-9484-a3dd8007af9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>d0387440-9835-482b-8fe6-c25394cc94d9</webElementGuid>
+      <webElementGuid>33527644-0356-49ac-8bda-3cdc278aad93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Signup / Login</value>
-      <webElementGuid>2511ff48-e575-480f-93d9-336c2e218dfe</webElementGuid>
+      <webElementGuid>4e5eca30-ed1b-47e4-8489-33a2aef5b09b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header&quot;)/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;shop-menu pull-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[4]/a[1]</value>
-      <webElementGuid>cee5a362-0010-4ec7-ac25-daab21d97716</webElementGuid>
+      <webElementGuid>d7e61196-66eb-4a7b-acdc-dcf00ee1eeae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[4]/a</value>
-      <webElementGuid>1a84c7fa-22b2-4701-a8d3-7abac613a986</webElementGuid>
+      <webElementGuid>effb8fea-b093-4c4c-94ee-6921aa6e38a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Signup / Login')]</value>
-      <webElementGuid>30526f5d-4703-488c-9e36-eb489edade52</webElementGuid>
+      <webElementGuid>7110cf3a-559f-467f-ab5b-453a78c64247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::a[1]</value>
-      <webElementGuid>041053d7-801f-4854-b61f-e32ba06a4ce4</webElementGuid>
+      <webElementGuid>87e24e70-87a5-4d75-be64-bc20aaeacdc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::a[2]</value>
-      <webElementGuid>0624876f-3bab-45b2-beec-5a2caf09d497</webElementGuid>
+      <webElementGuid>88bae89a-098e-4022-bc06-695a8c692e15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[1]/preceding::a[1]</value>
-      <webElementGuid>044aa4ac-35ad-47b2-8596-5225eb28c287</webElementGuid>
+      <webElementGuid>f5ca2b77-c8df-444e-9104-0b316b2aabf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='API Testing'])[1]/preceding::a[2]</value>
-      <webElementGuid>c1aef15c-f0a2-4a3a-bf43-9de986ed1d4f</webElementGuid>
+      <webElementGuid>76780c74-dd3f-4303-8b4e-790b154ddd26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Signup / Login']/parent::*</value>
-      <webElementGuid>ef158354-7560-4883-9509-85e5bd242530</webElementGuid>
+      <webElementGuid>04e369d1-bd0a-46ba-aa0d-2dbdb986ace6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>a2fc75df-fe7e-4f49-a899-6b8f1719702f</webElementGuid>
+      <webElementGuid>3f545ddb-57b9-4c39-90af-8f9cb6643de4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>259e2963-937b-4604-b73b-7064cd88e7dd</webElementGuid>
+      <webElementGuid>26001619-2c8b-43a5-bf12-117a1f9bf946</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = ' Signup / Login' or . = ' Signup / Login')]</value>
-      <webElementGuid>4f752797-fab1-4346-9bb3-a0c2b67ebbe6</webElementGuid>
+      <webElementGuid>bab5f9f1-f5a6-4188-9300-1dca5c83826f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

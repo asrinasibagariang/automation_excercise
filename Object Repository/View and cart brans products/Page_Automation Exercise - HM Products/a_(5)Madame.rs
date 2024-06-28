@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(5)Madame</name>
+   <tag></tag>
+   <elementGuidId>13d048f5-c2f1-48b6-a1c1-b6aed12a5ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='(5)'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-pills.nav-stacked > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f93c3262-2bef-44f4-8339-597c8a31cabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/brand_products/Madame</value>
+      <webElementGuid>81e20026-9304-45a2-8733-38a1671882c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> (5)Madame</value>
+      <webElementGuid>62147641-c62e-4f57-80e3-4ff9ee405873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;left-sidebar&quot;]/div[@class=&quot;brands_products&quot;]/div[@class=&quot;brands-name&quot;]/ul[@class=&quot;nav nav-pills nav-stacked&quot;]/li[3]/a[1]</value>
+      <webElementGuid>89a263bf-1bc7-4396-8c96-08c76ccd63cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(5)'])[1]/following::a[1]</value>
+      <webElementGuid>c3024814-2a0b-4a32-8c0d-72bccf38bb86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Madame']/parent::*</value>
+      <webElementGuid>005b183a-17fa-4be1-9057-6b41f6face52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/brand_products/Madame')]</value>
+      <webElementGuid>a3223056-27a7-40bc-a646-b82576c479f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>9c6b0288-d39f-4f88-b857-a45813d1d40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/brand_products/Madame' and (text() = ' (5)Madame' or . = ' (5)Madame')]</value>
+      <webElementGuid>ac93a1bb-2c7f-416c-8314-73fb70d7a2b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
