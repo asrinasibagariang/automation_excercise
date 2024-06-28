@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-VerifyApiTestCasesPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cb8af15-020b-4e97-b44d-0d99465b2db4</testCaseGuid>
+</TestCaseEntity>

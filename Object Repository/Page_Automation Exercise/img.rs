@@ -6,15 +6,16 @@
    <elementGuidId>3421e0fa-586d-4c4a-81c4-1cc663eb86a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Website for automation practice&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//header[@id='header']/div/div/div/div/div/a/img</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Website for automation practice&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6b82fcbe-6729-44bd-ba9c-3591d84dec02</webElementGuid>
+      <webElementGuid>4dbb29af-07f2-40d8-a30c-ff06cf477c9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/static/images/home/logo.png</value>
-      <webElementGuid>27ecc7ca-7a6d-45ca-ba58-03526ac47804</webElementGuid>
+      <webElementGuid>b5b17f4c-1c90-44c2-bc53-d96a3bfa6169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Website for automation practice</value>
-      <webElementGuid>d226d9c9-2025-4efe-919d-b9147f06a29b</webElementGuid>
+      <webElementGuid>d417034a-5724-4942-8d97-ba34f4987a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header&quot;)/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;logo pull-left&quot;]/a[1]/img[1]</value>
-      <webElementGuid>a7f8e8f8-7bbe-475d-a21b-8ea70edb1689</webElementGuid>
+      <webElementGuid>3bb8f509-6530-4142-a550-6ae0d90b8998</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='header']/div/div/div/div/div/a/img</value>
-      <webElementGuid>a07bef47-8abb-4bc3-8d92-7aaf3dbbb671</webElementGuid>
+      <webElementGuid>cab1081a-2a60-4251-832c-6134128092b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Website for automation practice']</value>
-      <webElementGuid>1d813907-fb40-4177-bb30-1a958003471d</webElementGuid>
+      <webElementGuid>262296ab-6dab-487d-b79b-dcf66ba7864f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>6526ada6-e3fb-4f13-85e0-0fb6e8a46423</webElementGuid>
+      <webElementGuid>60024ffc-c18c-4e61-aaab-997f494714f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/static/images/home/logo.png' and @alt = 'Website for automation practice']</value>
-      <webElementGuid>374a05a8-d269-4e65-9539-b8b556202aba</webElementGuid>
+      <webElementGuid>6d8e6d85-6c5e-41f9-b139-a210c3f66f37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
